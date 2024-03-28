@@ -158,16 +158,16 @@ Unordered lists 순서가 없는 목록
 이미지의 사이즈를 변경하기 위해서는 \<img width="OOOpx" height="OOOpx"\>\</img\>와 같이 표현합니다.
 
 
-![텍스트](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/220px-Font_Awesome_5_brands_github.svg.png)
+![깃헙](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/220px-Font_Awesome_5_brands_github.svg.png)
 
 이미지 파일에 마우스를 올렸을 때 커서 옆에 나오는 텍스트 설정
 
-![텍스트](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/220px-Font_Awesome_5_brands_github.svg.png) "깃헙 이미지")
+![깃헙](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/220px-Font_Awesome_5_brands_github.svg.png  "깃헙 이미지")
 
 
 링크와 이미지를 합친 문법 (이미지를 링크로 사용)
 
-[![텍스트](https://t1.daumcdn.net/cfile/tistory/2444873B57E257821F)](https://unity3d.com/kr)
+[![유니티](https://t1.daumcdn.net/cfile/tistory/2444873B57E257821F)(https://unity3d.com/kr)
 
 
 
