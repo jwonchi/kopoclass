@@ -197,7 +197,7 @@ Unordered lists 순서가 없는 목록
 괄호 안의 링크를 쓸 때는 띄어쓰기는 -로 연결, 영어는 모두 소문자로 작성
 
 
-[1. Headers 헤더](##1-headers-헤더)
+[1. Headers 헤더](## Headers 헤더)
 
 [2. Emphasis 강조](##2-emphasis-강조)
 
