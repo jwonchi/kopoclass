@@ -173,7 +173,7 @@ Unordered lists 순서가 없는 목록
 <img>태그를 이용한 이미지 크기 조절
 
 <img src="https://i1.sndcdn.com/avatars-000639959556-jhitcq-t500x500.jpg" width="200" height="200" />
-
+<img src="https://i1.sndcdn.com/avatars-000639959556-jhitcq-t500x500.jpg" width="600" height="600" />
 
 
 출처: https://inpa.tistory.com/entry/MarkDown-📚-마크다운-문법-💯-정리
