@@ -50,6 +50,10 @@ You got me fly so fast <br> 이제 조금은 나 알겠어
 * 이탤릭체와 두껍게를 같이 사용할 수 있습니다.
 
 * _This will also be italic_
+* 
 **This will also be bold**
+  
 ~~This is canceled~~
+
 _You **can** ~~combine~~ them_
+
