@@ -204,7 +204,17 @@ function test() {
 }
 ```
 
+## 체크 리스트
 
+줄 앞에 - \[x\]를 써서 완료된 리스트 표시.
+줄 앞에 - \[ \]를 써서 미완료된 리스트 표시.
+체크 안에서 강조 외에 여러 기능을 사용할 수 있습니다.
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 
 
 
