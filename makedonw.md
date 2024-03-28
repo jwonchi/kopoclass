@@ -42,3 +42,9 @@ You got me high so fast <br>
 Oh my my my oh my my my
 
 You got me fly so fast <br> 이제 조금은 나 알겠어
+
+## Emphasis 강조
+* 기울여 쓰기(italic) : * 또는 _로 감싼 텍스트.
+* 두껍게 쓰기(bold) : ** 또는 __로 감싼 텍스트.
+* 취소선 : ~~로 감싼 텍스트.
+* 이탤릭체와 두껍게를 같이 사용할 수 있습니다.
