@@ -162,7 +162,7 @@ Unordered lists 순서가 없는 목록
 
 이미지 파일에 마우스를 올렸을 때 커서 옆에 나오는 텍스트 설정
 
-![텍스트]([이미지파일URL](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/220px-Font_Awesome_5_brands_github.svg.png) "깃헙 이미지")
+![텍스트](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/220px-Font_Awesome_5_brands_github.svg.png) "깃헙 이미지")
 
 
 링크와 이미지를 합친 문법 (이미지를 링크로 사용)
