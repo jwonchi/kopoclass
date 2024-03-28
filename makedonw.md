@@ -214,8 +214,31 @@ function test() {
 - [ ] this is an incomplete item
 
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] @mentions, #refs, **formatting**, and <del>tags</del> supported
 
+
+## Table 테이블
+
+헤더와 셀을 구분할 때 3개 이상의 -(hyphen/dash) 기호가 필요합니다.
+헤더 셀을 구분하면서 :(Colons) 기호로 셀(열/칸) 안에 내용을 정렬할 수 있습니다.
+가장 좌측과 가장 우측에 있는 |(vertical bar) 기호는 생략 가능합니다.
+
+테이블 생성
+
+헤더1|헤더2|헤더3|헤더4
+---|---|---|---
+셀1|셀2|셀3|셀4
+셀5|셀6|셀7|셀8
+셀9|셀10|셀11|셀12
+
+테이블 정렬
+
+헤더1|헤더2|헤더3
+:---|:---:|---:
+Left|Center|Right
+1|2|3
+4|5|6
+7|8|9
 
 
 
