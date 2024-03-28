@@ -192,18 +192,17 @@ Unordered lists 순서가 없는 목록
 [링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
 
 
-내부(해시) 링크
-\[보여지는 내용\]\(\#이동할 헤드(제목)\)
-괄호 안의 링크를 쓸 때는 띄어쓰기는 -로 연결, 영어는 모두 소문자로 작성
+## 코드 블럭
+간단한 인라인 코드는 텍스트를 앞뒤로 `기호로 감싸면 됩니다.
+\`\`\` 혹은 \~\~\~ 코드.
+코드가 여러 줄인 경우, 줄 앞에 공백 네 칸을 추가하면 됩니다.
+\`\`\` 옆에 언어를 지정해주면 syntax color가 적용됩니다.
 
-
-[1. Headers 헤더](#Headers 헤더)
-
-[2. Emphasis 강조](##2-emphasis-강조)
-
-[3. Blockquotes 인용](##3-blockquotes-인용)
-
-
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
 
 
 
