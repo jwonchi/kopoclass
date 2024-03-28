@@ -167,10 +167,12 @@ Unordered lists 순서가 없는 목록
 
 링크와 이미지를 합친 문법 (이미지를 링크로 사용)
 
-[![유니티](https://t1.daumcdn.net/cfile/tistory/2444873B57E257821F)(https://unity3d.com/kr)
+![유니티](https://t1.daumcdn.net/cfile/tistory/2444873B57E257821F)(https://unity3d.com/kr)
 
 
+<img>태그를 이용한 이미지 크기 조절
 
+<img src="https://i1.sndcdn.com/avatars-000639959556-jhitcq-t500x500.jpg" width="200" height="200" />
 
 
 
